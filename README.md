@@ -1,8 +1,5 @@
 <div align="center">
 
-<img src="https://img.shields.io/badge/version-1.0.0-blue?style=for-the-badge" />
-<img src="https://img.shields.io/badge/license-MIT-green?style=for-the-badge" />
-<img src="https://img.shields.io/badge/PRs-welcome-brightgreen?style=for-the-badge" />
 
 # 🛒 ScaleCart
 
